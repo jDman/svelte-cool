@@ -1,0 +1,10 @@
+<style global>
+  @import 'tailwindcss/base';
+  @import './custom-base-styles.css';
+
+  @import 'tailwindcss/components';
+  @import './custom-components.css';
+
+  @import 'tailwindcss/utilities';
+  @import './custom-utilities.css';
+</style>
